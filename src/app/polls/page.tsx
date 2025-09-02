@@ -36,7 +36,7 @@ export default function PollsPage() {
       <div className="flex justify-between items-center mb-12">
         <div>
           <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-            All Polls
+            anas Eraoui
           </h1>
           <p className="text-muted-foreground mt-3 text-lg">
             Browse and vote on community polls
